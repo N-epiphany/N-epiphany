@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Bhavya Srivastava</h1>
+<h1 align="center">Hi , I'm Bhavya Srivastava</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left" > <a href img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=software+engineering+coder+girl+programmer&tbm=isch&hl=en&sa=X&ved=2ahUKEwih0YO-mLP6AhXUKbcAHTt6CKAQrNwCKAB6BQgBENUB&biw=1905&bih=867#imgrc=J7EDnN6fO23A3M")> </a>
 <a href img align="center" alt="Coding" width="400" src="https://www.pinterest.com/pin/821344050791162809/">>
