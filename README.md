@@ -2,6 +2,7 @@
 <h3 align="center">Data Analyst & Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-epiphany&label=Profile%20views&color=0e75b6&style=flat" alt="n-epiphany" /> </p>
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
 - 🔭 I’m currently working on [React](https://github.com/N-epiphany/Search)
 
