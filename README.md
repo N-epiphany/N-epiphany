@@ -46,6 +46,7 @@
 
 # Blog posts
  
-[![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&limit=6)](https://medium.com/@bs.epiphany14)
+
+[![Check Out the Articles](https://github-readme-medium.vercel.app/?username=bs.epiphany14&limit=6&bg=white&text=black)](https://medium.com/@bs.epiphany14)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
