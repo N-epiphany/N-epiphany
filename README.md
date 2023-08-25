@@ -1,6 +1,6 @@
 <h1 align="center">I'm Bhavya Srivastava</h1>
 <h3 align="center">Data Analyst & Full-Stack Web Developer</h3>
-<img align="right" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-epiphany&label=Profile%20views&color=0e75b6&style=flat" alt="n-epiphany" /> </p>
 
 
