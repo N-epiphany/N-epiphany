@@ -27,8 +27,6 @@
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/2" alt="Recent Article 2"></a> <br>
 
 
-
-[![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&bg=white&text=black)](https://medium.com/@bs.epiphany14)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bhavya-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhavya-srivastava" height="30" width="40" /></a>
