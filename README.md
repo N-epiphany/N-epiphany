@@ -48,4 +48,4 @@
  
 
 [![Check Out the Articles](https://github-readme-medium.vercel.app/?username=bs.epiphany14)](https://medium.com/@bs.epiphany14)
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=red&text=green)](https://medium.com/@omidnikrah)
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2)](https://medium.com/@omidnikrah)
