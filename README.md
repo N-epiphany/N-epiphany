@@ -21,9 +21,11 @@
 
 - ⚡ Fun fact **I am still not sure which field I belong to Analysis or Development**
 
+  https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/6
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 
 [![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&bg=white&text=black)](https://medium.com/@bs.epiphany14)
 <h3 align="left">Connect with me:</h3>
