@@ -46,6 +46,6 @@
 
 # Blog posts
   https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=`bs.epiphany14`
-[![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&limit=NONE)](https://medium.com/@bs.epiphany14)
+[![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&limit=6)](https://medium.com/@bs.epiphany14)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
