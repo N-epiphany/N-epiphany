@@ -4,22 +4,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-epiphany&label=Profile%20views&color=0e75b6&style=flat" alt="n-epiphany" /> </p>
 
 
-(https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 - 🔭 I’m currently working on [React](https://github.com/N-epiphany/Search)
 
 - 🌱 I’m currently learning **React ,Typescript**
 
 - 👩🏻‍💻 My most recently completed project on [Study.covid19 (under IITK)](https://studycovid19.in/)
 
-- 👨‍💻 You can know about me from [https://n-epiphany.github.io/EpiphanyPortfolio/](https://n-epiphany.github.io/EpiphanyPortfolio/)
+- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)
 
-- ✍🏻 I Write Tech Articles on Medium [https://medium.com/@bs.epiphany14](https://medium.com/@bs.epiphany14)
+- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)
 
 - 💬 Ask me about **Django,Flask**
 
 - 📫 How to reach me **bhavya.srivastava1400@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v3l_ispfi6jdnOYl8dEM-AgyaZDgsOu5/view](https://drive.google.com/file/d/1v3l_ispfi6jdnOYl8dEM-AgyaZDgsOu5/view)
+- 📄 Know about my experiences [on my CV](https://drive.google.com/file/d/1v3l_ispfi6jdnOYl8dEM-AgyaZDgsOu5/view)
 
 - ⚡ Fun fact **I am still not sure which field I belong to Analysis or Development**
 
