@@ -47,5 +47,5 @@
 # Blog posts
  
 
-[![Check Out the Articles](https://github-readme-medium.vercel.app/?username=bs.epiphany14)](https://medium.com/@bs.epiphany14)
+
 [![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&bg=white&text=black)](https://medium.com/@bs.epiphany14)
