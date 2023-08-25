@@ -25,6 +25,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+[![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&bg=white&text=black)](https://medium.com/@bs.epiphany14)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bhavya-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhavya-srivastava" height="30" width="40" /></a>
@@ -44,8 +45,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=n-epiphany&" alt="n-epiphany" /></p>
 
-# Blog posts
+
  
-
-
-[![Medium](https://github-readme-medium.vercel.app/?username=bs.epiphany14&bg=white&text=black)](https://medium.com/@bs.epiphany14)
