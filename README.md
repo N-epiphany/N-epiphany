@@ -1,9 +1,9 @@
-<h1 align="center">I'm Bhavya Srivastava</h1>
-<h3 align="center">Data Analyst & Full-Stack Web Developer</h3>
+<h1 align="center">Welcome Folks !!!</h1>
+<h3 align="center">Welcome to my GitHub repository! Explore the code, ideas, and projects that I'm passionate about. Feel free to contribute, collaborate, and learn together on this coding journey.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-epiphany&label=Profile%20views&color=0e75b6&style=flat" alt="n-epiphany" /> </p>
 
-
+- 👩🏻‍💻 I am interested in Data Analysis and Backend Development 
 - 🔭 I’m currently working on [React](https://github.com/N-epiphany/Search)
 
 - 🌱 I’m currently learning **React ,Typescript**
