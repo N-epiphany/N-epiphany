@@ -1,6 +1,7 @@
 <h1 align="center">Welcome Folks !!!</h1>
-<img align="center" src="https://drive.google.com/file/d/17zrbrOPFdtb5sVR5DXW39KsmPoviSdR8/view?usp=sharing">
-<h3 align="center">Welcome to my GitHub repository! Explore the code, ideas, and projects that I'm passionate about. Feel free to contribute, collaborate, and learn together on this coding journey.</h3>
+<p align="center">
+  <img src="https://drive.google.com/uc?id=17zrbrOPFdtb5sVR5DXW39KsmPoviSdR8" alt="Welcome Image" width="600">
+</p><h3 align="center">Welcome to my GitHub repository! Explore the code, ideas, and projects that I'm passionate about. Feel free to contribute, collaborate, and learn together on this coding journey.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-epiphany&label=Profile%20views&color=0e75b6&style=flat" alt="n-epiphany" /> </p>
 
