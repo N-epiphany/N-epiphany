@@ -1,6 +1,6 @@
 <h1 align="center">Welcome Folks !!!</h1>
 <p align="center">
-  <img src="https://drive.google.com/file/d/18YuZwJKZgZBu3fbBeIbhjddl4tGrAZ5y/view?usp=sharing" alt="Welcome Image" width="100%" height="20%">
+  <img src="https://drive.google.com/file/d/18YuZwJKZgZBu3fbBeIbhjddl4tGrAZ5y/view" alt="Welcome Image" width="100%" height="20%">
 </p>
 <h3 align="center">Welcome to my GitHub repository! Explore the code, ideas, and projects that I'm passionate about. Feel free to contribute, collaborate, and learn together on this coding journey.</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
