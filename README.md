@@ -48,12 +48,12 @@
 <p>
   <img align="left" theme="black"  src="https://github-readme-stats.vercel.app/api/top-langs?username=n-epiphany&show_icons=true&locale=en&layout=compact&theme=transparent" alt="n-epiphany" />
 </p>
+<br>
 
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" theme="black" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=n-epiphany&show_icons=true&theme=transparent" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epiphany_&" alt="soumyajit" />
+  <img align="center" theme="black" src="https://github-readme-stats.vercel.app/api?username=n-epiphany&show_icons=true&theme=radical" />
 </div>
 
 ## 📊 My Leetcode Data:
