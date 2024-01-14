@@ -47,7 +47,7 @@
 
 ## 📊 My GitHub Data:
 
-<div align="center">
+<div align="left">
   <img align="center" theme="black" src="https://github-readme-stats.vercel.app/api?username=n-epiphany&show_icons=true&theme=radical" />
 </div>
 
