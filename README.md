@@ -36,8 +36,6 @@
 
 ###
 
-<h2 align="center"></h2>
-
 <div align="left">
   <a href="bhavya.srivastava1400@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
@@ -48,6 +46,8 @@
 </div>
 
 ###
+
+<h2 align="center"></h2>
 
 <p align="center">
 <img  height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
