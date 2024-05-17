@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 <p align="left">- 👩🏻‍💻 Hello there!  I'm Bhavya Srivastava, a passionate Full Stack Developer and Data Analyst with a knack for crafting intuitive web solutions and extracting valuable insights from complex data. <br><br>- 🔭 I’m currently working on [Web Scraping](https://github.com/N-epiphany/Senior-Living-Projects-Web-Scraper)<br><br>- 🌱 I’m currently learning **React ,Python Development**<br><br>- 👩🏻‍💻 Project that I am most proud of :[Study.covid19 (under IITK)](https://studycovid19.in/)<br><br>- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)<br><br>- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)<br><br>- 💬 Ask me about **Anything Related to Web Applications or Data Analysis**<br><br>- 📫 How to reach me **bhavya.srivastava1400@gmail.com**<br><br>- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1RM976mVhiAB13d8aO8esh_XlwvsnTA3S/view?usp=drive_link)</p>
 
