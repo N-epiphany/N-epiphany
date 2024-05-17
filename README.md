@@ -12,8 +12,6 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-
 - 👩🏻‍💻 Hello there! I'm Bhavya Srivastava, a passionate Full Stack Developer and Data Analyst with a knack for crafting intuitive web solutions and extracting valuable insights from complex data.
 
 - 🔭 I’m currently working on [Web Scraping](https://github.com/N-epiphany/Senior-Living-Projects-Web-Scraper)
@@ -46,6 +44,8 @@
 </div>
 
 ###
+
+<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 <h3 align="left">Front-End Techs:</h3>
 
