@@ -1,56 +1,134 @@
-<h1 align="center">Hellooo  !!!</h1>
-<p align="center">
-  <img src="https://github.com/N-epiphany/N-epiphany/blob/main/Cover.png" alt="Welcome Image" width="100%" height="20%">
-</p>
-<h3 align="center">Welcome to my GitHub repository! Explore the code, ideas, and projects that I'm passionate about. Feel free to contribute, collaborate, and learn together on this coding journey.</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n-epiphany&label=Profile%20views&color=0e75b6&style=flat" alt="n-epiphany" /> </p>
+<h4 align="center">Welcome to my GitHub repository! Explore the code, ideas, and projects that I'm passionate about. Feel free to contribute, collaborate, and learn together on this coding journey.</h4>
 
-- 👩🏻‍💻 I am interested in Data Analysis and Backend Development 
-- 🔭 I’m currently working on [React](https://github.com/N-epiphany/Search)
+###
 
-- 🌱 I’m currently learning **React ,Typescript**
+<p align="left">- 👩🏻‍💻 Hello there!  I'm Bhavya Srivastava, a passionate Full Stack Developer and Data Analyst with a knack for crafting intuitive web solutions and extracting valuable insights from complex data. <br><br>- 🔭 I’m currently working on [Web Scraping](https://github.com/N-epiphany/Senior-Living-Projects-Web-Scraper)<br><br>- 🌱 I’m currently learning **React ,Python Development**<br><br>- 👩🏻‍💻 Project that I am most proud of :[Study.covid19 (under IITK)](https://studycovid19.in/)<br><br>- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)<br><br>- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)<br><br>- 💬 Ask me about **Anything Related to Web Applications or Data Analysis**<br><br>- 📫 How to reach me **bhavya.srivastava1400@gmail.com**<br><br>- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1RM976mVhiAB13d8aO8esh_XlwvsnTA3S/view?usp=drive_link)</p>
 
-- 👩🏻‍💻 My most recently completed project on [Study.covid19 (under IITK)](https://studycovid19.in/)
+<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
-- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)
+###
 
-- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)
+<h3 align="left">Connect with Me :</h3>
 
-- 💬 Ask me about **Django,Flask**
-
-- 📫 How to reach me **bhavya.srivastava1400@gmail.com**
-
-- 📄 Know about my experiences [on my CV](https://drive.google.com/file/d/1v3l_ispfi6jdnOYl8dEM-AgyaZDgsOu5/view)
-
-- ⚡ Fun fact **I am still not sure which field I belong to Analysis or Development**
-
-### Blogs posts
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bs.epiphany14/2" alt="Recent Article 2"></a> <br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/bhavya-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhavya-srivastava" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nepiphany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nepiphany" height="30" width="40" /></a>
-<a href="https://medium.com/@bs.epiphany14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bs.epiphany14" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/n_epiphany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="n_epiphany" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/epiphany_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="epiphany_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/epiphany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="epiphany" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-## 📊 My GitHub Data:
+###
 
 <div align="left">
-  <img align="center" theme="black" src="https://github-readme-stats.vercel.app/api?username=n-epiphany&show_icons=true&theme=radical" />
+  <a href="bhavya.srivastava1400@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/nepiphany/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
-## 📊 My Leetcode Data:
-<img src="https://leetcard.jacoblin.cool/Epiphany_?theme=dark"/>
+###
 
+<h3 align="left">Front-End Techs:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
+
+<h3 align="left">Back-End Techs:</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+</div>
+
+###
+
+<h3 align="left">Data Tech</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+</div>
+
+###
+
+<h3 align="left">Miscellaneous</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=N-epiphany&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&custom_title=Github%20Stats%20:%20" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-epiphany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=N-epiphany&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">Contribution:</h3>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/N-epiphany/N-epiphany/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-epiphany&radius=16&theme=gotham&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
