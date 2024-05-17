@@ -2,9 +2,9 @@
 
 ###
 
-<p align="left">- 👩🏻‍💻 Hello there!  I'm Bhavya Srivastava, a passionate Full Stack Developer and Data Analyst with a knack for crafting intuitive web solutions and extracting valuable insights from complex data. <br><br>- 🔭 I’m currently working on [Web Scraping](https://github.com/N-epiphany/Senior-Living-Projects-Web-Scraper)<br><br>- 🌱 I’m currently learning **React ,Python Development**<br><br>- 👩🏻‍💻 Project that I am most proud of :[Study.covid19 (under IITK)](https://studycovid19.in/)<br><br>- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)<br><br>- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)<br><br>- 💬 Ask me about **Anything Related to Web Applications or Data Analysis**<br><br>- 📫 How to reach me **bhavya.srivastava1400@gmail.com**<br><br>- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1RM976mVhiAB13d8aO8esh_XlwvsnTA3S/view?usp=drive_link)</p>
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
-<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<p align="left">- 👩🏻‍💻 Hello there!  I'm Bhavya Srivastava, a passionate Full Stack Developer and Data Analyst with a knack for crafting intuitive web solutions and extracting valuable insights from complex data. <br><br>- 🔭 I’m currently working on [Web Scraping](https://github.com/N-epiphany/Senior-Living-Projects-Web-Scraper)<br><br>- 🌱 I’m currently learning **React ,Python Development**<br><br>- 👩🏻‍💻 Project that I am most proud of :[Study.covid19 (under IITK)](https://studycovid19.in/)<br><br>- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)<br><br>- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)<br><br>- 💬 Ask me about **Anything Related to Web Applications or Data Analysis**<br><br>- 📫 How to reach me **bhavya.srivastava1400@gmail.com**<br><br>- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1RM976mVhiAB13d8aO8esh_XlwvsnTA3S/view?usp=drive_link)</p>
 
 ###
 
@@ -111,9 +111,16 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-epiphany&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&custom_title=Github%20Stats%20:%20" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-epiphany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" height="150" alt="languages graph" /> <br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N-epiphany&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&custom_title=Github%20Stats%20:%20" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-epiphany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=N-epiphany&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
