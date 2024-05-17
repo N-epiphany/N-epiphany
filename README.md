@@ -1,9 +1,14 @@
 <p align="center">
   <img src="https://github.com/N-epiphany/N-epiphany/blob/main/Cover.png" alt="Welcome Image" width="100%" height="15%">
 </p>
+
+###
+
 <br clear="both">
 
 <h4 align="center">Welcome to my GitHub repository! Explore the code, ideas, and projects that I'm passionate about. Feel free to contribute, collaborate, and learn together on this coding journey.</h4>
+
+<br clear="both">
 
 ###
 
