@@ -10,6 +10,8 @@
 
 <br clear="both">
 
+<h2 align="center"></h2>
+
 ###
 
 - 👩🏻‍💻 Hello there! I'm Bhavya Srivastava, a passionate Full Stack Developer and Data Analyst with a knack for crafting intuitive web solutions and extracting valuable insights from complex data.
@@ -156,7 +158,7 @@
 
 ###
 
-<h3 align="left">Contribution:</h3>
+<h2 align="center"> Contribution </h2>
 
 ###
 
