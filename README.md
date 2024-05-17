@@ -22,7 +22,9 @@
 
 - 👩🏻‍💻 Project that I am most proud of :[Study.covid19 (under IITK)](https://studycovid19.in/)
 
-- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)<br><br>- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)
+- 👨‍💻 You can know about me from my [Portfolio](https://n-epiphany.github.io/EpiphanyPortfolio/)
+
+- ✍🏻 I Write Tech Articles on [Medium](https://medium.com/@bs.epiphany14)
 
 - 💬 Ask me about **Anything Related to Web Applications or Data Analysis**
 
