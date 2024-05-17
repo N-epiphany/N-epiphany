@@ -45,7 +45,8 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<img align="center" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<h2 align="center"> All that I Have Learned till now</h2>
 
 <h3 align="left">Front-End Techs:</h3>
 
