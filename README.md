@@ -45,7 +45,10 @@
 
 ###
 
-<img align="center" height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<p align="center">
+<img  height="200" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</p>
+
 <h2 align="center"> All that I Have Learned till now</h2>
 
 <h3 align="left">Front-End Techs:</h3>
@@ -133,6 +136,8 @@
 </div>
 
 ###
+
+<h2 align="center"> Stats Related to My Repo</h2>
 
 <br clear="both">
 
