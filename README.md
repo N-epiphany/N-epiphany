@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **bhavya.srivastava1400@gmail.com**
 
-- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1RM976mVhiAB13d8aO8esh_XlwvsnTA3S/view?usp=drive_link)
+- 📄 Know about my experiences [from my Resume](https://drive.google.com/file/d/1hh5OgVea0ToB2vJwgWGGIImv6FmCp5T0/view?usp=drive_link) 
 
 ###
 
@@ -42,7 +42,7 @@
   <a href="bhavya.srivastava1400@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/nepiphany/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhavyasrivastava14/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
